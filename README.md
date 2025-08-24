@@ -50,6 +50,6 @@ Hello, I’m Samuel Kim and welcome to my data analysis portfolio! This portfoli
 |---|---|---|
 | MySQL | ... | link to MySQL repos |
 | Python | Practice Python usig exercises in ISL | [ISL-Python](https://github.com/samuelyk/isl-python) |
-| R | Practice R usig exercises in ISL | link to ISLR repos |
+| R | Practice R usig exercises in ISL | [ISLR](https://github.com/samuelyk/islr)|
 | Tableau | ... | link to Tableau dashboard or repos |
 ***
