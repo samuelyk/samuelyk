@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Hello, I’m Samuel Kim and welcome to my data analysis portfolio! This portfolio highlights my data analysis skills with MySQL, R, and Python, as well as my ongoing education in data and statistics.
 
-### ⚡ About Me
+### 🙋🏻‍♂️ About Me
 - Financial Analyst in Music Industry
 - B.S. in Joint Mathematics-Economics, UC San Diego 🔱
 - Proficient in MS Excel (PivotTable, VLOOKUP, SUMIFS, INDEX & MATCH)
