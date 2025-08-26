@@ -39,8 +39,8 @@ Hello, I’m Samuel Kim and welcome to my data analysis portfolio! This portfoli
 # PROJECTS
 | Project Links | Skills | Project Description | Duration |
 |---|---|---|---|
-| Project1 | Python (Numpy, Pandas) | Project1 description ... | start date ... end date|
-| Project2 | MySQL | Project2 description ... | start date ... end date|
+| Data Cleaning | MySQL | Project2 description ... | 08/25/25 - end date|
+| Project2 | Python (Numpy, Pandas) | Project2 description ... | start date ... end date|
 | Project3 | R | Project3 description ... | start date ... end date|
 
 ***
