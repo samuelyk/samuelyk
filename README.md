@@ -39,7 +39,7 @@ Hello, I’m Samuel Kim and welcome to my data analysis portfolio! This portfoli
 # PROJECTS
 | Project Links | Skills | Project Description | Duration |
 |---|---|---|---|
-| Data Cleaning | MySQL | Project2 description ... | 08/25/25 - end date|
+| [Layoffs Data Cleaning](https://github.com/samuelyk/data-cleaning-layoffs) | MySQL | Project Description | 08/25/25 - 09/03/25 |
 | Project2 | Python (Numpy, Pandas) | Project2 description ... | start date ... end date|
 | Project3 | R | Project3 description ... | start date ... end date|
 
